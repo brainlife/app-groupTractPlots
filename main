@@ -4,9 +4,9 @@
 #PBS -V
 
 echo "running outlier removal"
-singularity exec -e docker://brainlife/mcr:neurodebian1604-r2017a ./compiled/wma_removeTractOutliers_BL
+singularity exec -e docker://brainlife/mcr:neurodebian1604-r2017a ./compiled/bsc_groupTractPlots_BL
 
-if [ ! -f "classification/classification.mat" ]; then
+if [ ! -f "/classification.mat" ]; then
 	echo "output missing"
 	exit 1
 fi
