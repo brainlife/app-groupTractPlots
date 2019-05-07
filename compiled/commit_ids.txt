@@ -15,11 +15,11 @@ Date:   Wed Sep 6 13:01:57 2017 -0400
     
     added package.json to be able to intall via npm package manager
 /N/u/brlife/git/wma_tools
-commit 556995f043fe3d7b7b1af638b8cce3b950b4bed4
+commit 54299fda3e4df5146f1d04864b4e5a90a7032c73
 Author: Daniel Bullock <dnbulloc@iu.edu>
-Date:   Fri May 3 15:40:27 2019 -0400
+Date:   Fri May 3 18:04:49 2019 -0400
 
-    fixed to accept both wmc inputs
+    fixed config for group tract plots
 /N/u/brlife/git/encode
 commit 538a73bc4f8b4d94545bc2dfe434fec55e0c7a95
 Author: Soichi Hayashi <hayashis@iu.edu>
