@@ -15,11 +15,11 @@ Date:   Wed Sep 6 13:01:57 2017 -0400
     
     added package.json to be able to intall via npm package manager
 /N/u/brlife/git/wma_tools
-commit cbe3920a09909c3e6fc3f9e6741b6d6ad9e38681
+commit 659ee1ba495e76066e53e4bd81840e133c8907ad
 Author: Daniel Bullock <dnbulloc@iu.edu>
-Date:   Fri May 10 16:15:01 2019 -0400
+Date:   Mon May 13 16:08:38 2019 -0400
 
-    added str to num for input
+    fixed many things with anatomy and zscore plotting code
 /N/u/brlife/git/encode
 commit 538a73bc4f8b4d94545bc2dfe434fec55e0c7a95
 Author: Soichi Hayashi <hayashis@iu.edu>
